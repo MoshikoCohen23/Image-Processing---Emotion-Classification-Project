@@ -10,4 +10,4 @@ Can we use image processing techniques for the task of image emotion classificat
 The repository contains three types of files:
 1. three folders with samples of images from 3 classes (Angry, Happy, Sad)
 2. Python Code (pre-processing, funcations, modeling, evaluations, etc.)
-3. PDF summary report.
+3. PDF article summarizes the research process, method and the results.
